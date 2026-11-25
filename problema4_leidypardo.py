@@ -1,3 +1,10 @@
+# Nombre del estudiante: Leidy Lorena Pardo Acevedo
+# Grupo: 213022_1017
+# Programa: Ingeniería de Sistemas
+# Curso: Fundamentos de Programación
+# Código Fuente: Autoría propia
+# Problema 4: Videoteca digital (Filtrado y conteo de catálogo)
+
 catalogo = [
     ["Aladdin", 1992, 8.0, "Animacion"],
     ["Spider Man", 2002, 7.5, "Accion"],
